@@ -98,26 +98,6 @@ Contents
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tamseelansari11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamseelansari11&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=tamseelansari11&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 📊 Contribution Graph
 
@@ -163,25 +143,6 @@ Contents
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamseelansari11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
----
-
-# 📅 Contribution Snake
-
-> Enable this after creating the GitHub Action.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/tamseelansari11/tamseelansari11/output/github-contribution-grid-snake-dark.svg">=
-
-</p>
-
----
 
 # 📖 2026 Goals
 
